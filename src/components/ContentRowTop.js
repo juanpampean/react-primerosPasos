@@ -9,9 +9,9 @@ function ContentRowTop() {
         <ContentRowMovies />
             
             <div className="row">
- 
+            <LastMovieInDb />
         <GenresInDb />
-        <LastMovieInDb />
+ 
             </div>
         </div>     
 
